@@ -8,7 +8,7 @@ Welcome to the official support page for SnappyWorks Assets. If you need assista
 ---
 
 **Itch.io Tools:**
-* PixlyBakery [snappyworks.itch.io/pixlybakery]
+* PixlyBakery [https://snappyworks.itch.io/pixlybakery]
 
 ---
 
